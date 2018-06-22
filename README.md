@@ -4,4 +4,17 @@ This is what I learned during 100 days of coding.
 
 ## Projects
 
+## Days
+1. June 11 Zero to Mastery, Chapters 1-10
+2. June 12 Zero to Mastery, Chapters 11-21
+3. June 13 Zero to Mastery, Chapters 22-34
+4. June 14 no coding, kids last day of school
+5. June 15 no coding, flew to N.O.
+6. June 16 Zero to Mastery, Chapters 35-42
+7. June 17 Zero to Mastery, Chapter 43
+8. June 18 Zero to Mastery, Chapter 44
+9. June 19 no coding, flew to N.O.
+10. June 20 Zero to Mastery, Chapter 45
+11. June 21 Zero to Mastery, Chapter 46. Learned to format fonts.
+
 ### Coffee Shops in Bend
