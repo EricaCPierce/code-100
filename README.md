@@ -18,4 +18,6 @@ This is what I learned during 100 days of coding.
 11. June 21 Zero to Mastery, Chapter 46. Learned to format fonts.
 12. June 22 Zero to Mastery, finished Chapter 46, text and fonts
 13. July 1 Zero to Mastery, Chapters 47-48. Images and Box Model
+14. July 8 Zero to Mastery, Chapter 49. px vs. em vs. rem
+
 ### Coffee Shops in Bend
